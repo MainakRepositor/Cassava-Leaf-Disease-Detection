@@ -39,8 +39,7 @@ from html_mardown import (
 # Enable garbage collection
 gc.enable()
 
-# Hide warnings
-st.set_option("deprecation.showfileUploaderEncoding", False)
+
 
 # Set App title
 st.title("Cassava disease prediction Web App")
